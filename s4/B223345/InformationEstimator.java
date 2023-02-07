@@ -2,6 +2,9 @@ package s4.B223345; // Please modify to s4.Bnnnnnn, where nnnnnn is your student
 import java.lang.*;
 import s4.specification.*;
 import javax.xml.stream.events.StartDocument;
+
+//test
+
 /* What is imported from s4.specification
 package s4.specification;
 public interface InformationEstimatorInterface {
